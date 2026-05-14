@@ -1,0 +1,27 @@
+title: Ronak Suchak
+email: ronak.suchak.4@gmail.com
+tagline: DevOps Engineer | GCP | Kubernetes | Terraform
+
+description: >-
+  DevOps Engineer specializing in Google Cloud Platform,
+  Kubernetes, Terraform, CI/CD automation, and cloud-native infrastructure.
+
+url: "https://ronaksuchak.github.io"
+
+github:
+  username: ronaksuchak
+
+social:
+  name: Ronak Suchak
+  email: ronak.suchak.4@gmail.com
+  links:
+    - https://github.com/ronaksuchak
+    - https://www.linkedin.com/
+
+avatar: /assets/img/profile.jpg
+
+theme_mode: dark
+
+lang: en
+
+timezone: Asia/Kolkata
